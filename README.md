@@ -1,4 +1,7 @@
 # Project_Based_Internship_BankMuamalat_Rakamin_BI_Analyst
 
-this project is the final stage to determine the abilities of participants, this project contains product sales data from January 1, 2020 to December 31, 2021. understand how to clean data, determine relationships between tables, combine several tables, and create dashboards. the tools used are excel, google bigquery, lookerstudio. the main focus is to understand product sales and customer behavior in transactions.
 
+Project ini merupakan tahap akhir untuk mengetahui kemampuan peserta, project ini berisi data penjualan produk dari tanggal 1 januari 2020 sampai dengan 31 desember 2021. Memahami bagaimana cara membersihkan data, menentukan relasi antar tabel, menggabungkan beberapa tabel, dan membuat dashboard. Tools yang digunakan adalah excel, google bigquery, lookerstudio. Fokus utama adalah memahami penjualan produk dan perilaku pelanggan dalam bertransaksi. Terdapat 5 challenge yang harus diselesaikan.
+
+
+Translated with DeepL.com (free version)
